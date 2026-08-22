@@ -131,7 +131,7 @@ footer a:hover{color:var(--orange)}
 .hero{display:block;min-height:620px;padding:90px 28px 42px}
 .hero h1{font-size:35px}
 .hero-art{height:300px;margin-top:20px}
-.profile-ring{width:210px;height:210px;left:24%;top:30px}
+.profile-ring{width:210px;height:210px;left:50%;top:30px; transform: translateX(-50%) !important;}
 .glow-green{width:180px;height:180px}
 .glow-blue{width:200px;height:200px}
 .workspace{display:block}
