@@ -98,7 +98,7 @@ footer a:hover{color:var(--orange)}
 .file-tree li{margin:4px 0}
 .tree-folder,.tree-item{appearance:none;width:100%;border:0;background:transparent;color:#92a8b4;font:400 10px/1.25 var(--mono);display:flex;align-items:center;gap:7px;text-align:left;padding:5px 3px;cursor:pointer;border-radius:3px}
 .tree-folder{color:#c7d5d8;font-weight:500;cursor:default;margin-top:7px}
-.tree-folder svg,.tree-item svg{width:13px;height:13px;flex:none;fill:none;stroke:#4b9fc8;stroke-width:1.35;stroke-linecap:round;stroke-linejoin:round}
+.tree-folder svg,.tree-item svg{width:21px;height:21px;flex:none;fill:none;stroke:#4b9fc8;stroke-width:1.35;stroke-linecap:round;stroke-linejoin:round}
 .tree-folder svg{stroke:#d59a4d}
 .tree-item:hover{background:#06263a;color:#e0e9ea}
 .tree-item.is-selected{color:#e1e9e9;background:#06263a}
